@@ -1,8 +1,8 @@
 # Labor-Market-Analysis-on-Puerto-Rico
 
-### Using multiple linear and non-linear regression model 
+### Multiple Linear and Non-Linear Regression Models 
 
-We used data from the 2016 ACS for Puerto Rico to examine wage gaps between individuals with different education levels. Our research questions are: 
+Used data from the 2016 ACS for Puerto Rico to examine wage gaps between individuals with different education levels. Our research questions are: 
 1) How do earnings vary by education level? 
 2) How does the premium for education vary by gender? 
 
